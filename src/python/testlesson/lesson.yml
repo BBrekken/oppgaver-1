@@ -1,3 +1,4 @@
-grade: [junior, senior, primary]
-subject: []
-topic: [app, block_based, minecraft, sound, cryptography, electronics, animation, text_based, game, robot]
+tags:
+  grade: []
+  subject: [mathematics]
+  topic: [cryptography, web, robot, minecraft, block_based, animation, game, sound, app, step_based, text_based]
